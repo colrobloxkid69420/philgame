@@ -489,27 +489,19 @@ define credits_string = _p("""
 \n\n
 {size=+75}Programming{/size}
 \n
-BáiYù
-\n
-bobcgames
-\n
-npckc
-\n
-TheoMinute
+crazykazoo
 \n\n
 {size=+75}Art{/size}
 \n
-Sprites - Mannequin by HelloAR14
-\n
-Backgrounds - Uncle Mugen
+Nautilus
 \n\n
 {size=+75}Soundtrack{/size}
 \n
-Eric Matyas
+No-one (currently)
 \n\n
 {size=+75}Special Thanks{/size}
 \n
-Renall
+No-one (currently)
 \n\n\n\n\n\n\n\n
 {size=+100}Made with{/size}
 \n
